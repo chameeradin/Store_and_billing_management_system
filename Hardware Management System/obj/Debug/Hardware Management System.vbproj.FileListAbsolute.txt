@@ -1,0 +1,39 @@
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.exe.config
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.exe
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.pdb
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.xml
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form2.resources
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form3.resources
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form4.resources
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form5.resources
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form6.resources
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Resources.resources
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.vbproj.CopyComplete
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.exe
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.xml
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.pdb
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form1.resources
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form7.resources
+C:\Users\DELL\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.vbprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.exe.config
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.exe
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.pdb
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.xml
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.vbprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form2.resources
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form3.resources
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form4.resources
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form5.resources
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form1.resources
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form6.resources
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Form7.resources
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Resources.resources
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.vbproj.CopyComplete
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.exe
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.xml
+C:\Users\DELL\Desktop\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.pdb
